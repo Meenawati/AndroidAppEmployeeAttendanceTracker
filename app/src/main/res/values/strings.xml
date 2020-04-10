@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Vacation Details</string>
+
+    <string name="menu_home" translatable="false">Vacation Summary</string>
+    <string name="menu_detail" translatable="false">Vacation Details</string>
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+    <string name="menu_form" translatable="false">Application Form</string>
+    <string name="menu_logout" translatable="false">LogOut</string>
+    <string name="menu_send" translatable="false">Send</string>
+    <string name="details" translatable="false">Details</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="delete" translatable="false">Delete</string>
+    
+    <string-array name="vacation_array">
+        <item>VACATION</item>
+        <item>SICK</item>
+        <item>PARENTAL</item>
+        <item>MARRIAGE</item>
+    </string-array>
+
+    <string name="date_error" translatable="false">Select the Date</string>
+    <string name="vacation_type">Vacation Type</string>
+    <string name="date">Date</string>
+    <string name="leave_taken">Leave Taken</string>
+    <string name="available_days">Available Days</string>
+    <string name="total_days">Total Days</string>
+</resources>

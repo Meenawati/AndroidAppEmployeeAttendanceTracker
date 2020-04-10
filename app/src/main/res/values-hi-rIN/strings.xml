@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="total_days">पूरे दिन</string>
+    <string name="vacation_type">छुट्टी प्रकार</string>
+    <string name="available_days">उपलाब्द छुट्टी</string>
+    <string name="leave_taken">छुट्टी लिया गया</string>
+    <string name="date">तारीख</string>
+</resources>

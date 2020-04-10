@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/type_header"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="25"
+        android:background="#00AF9C9C"
+        android:gravity="center"
+        android:text="@string/vacation_type"
+        android:textAlignment="center"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/leave_header"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:text="@string/leave_taken"
+        android:textSize="15dp"
+        android:layout_weight="25"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:id="@+id/available_header"
+        android:text="@string/available_days"
+        android:textSize="15dp"
+        android:layout_weight="25"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:id="@+id/total_header"
+        android:text="@string/total_days"
+        android:textSize="15dp"
+        android:layout_weight="25"/>
+
+</LinearLayout>
